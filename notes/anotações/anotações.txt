@@ -1,0 +1,17 @@
+main:
+	criar uma função única que une todos os gm_game e gm_menu em um só
+	criar GUI de pause, iniciar e fim de jogo
+	guardar os pontos e tempo
+	criar um ranking
+	criar powerups
+	separar modo singleplayer e multiplayer
+	criar níveis de game aumentando a dificuldade
+	balancear modos de jogo
+
+opcional:
+	criar modo versus
+	criar as barreiras
+	separar altura de tela por cor com filtro
+
+detalhes:
+	versus -> um em cima e outro embaixo

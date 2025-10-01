@@ -1,0 +1,1 @@
+script_execute(gm_menu_alarm_0);

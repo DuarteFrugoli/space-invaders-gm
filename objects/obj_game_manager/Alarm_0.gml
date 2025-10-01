@@ -1,0 +1,1 @@
+script_execute(gm_game_alarm_0);
